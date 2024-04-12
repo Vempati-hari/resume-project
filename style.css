@@ -1,0 +1,104 @@
+/* styles.css */
+
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+/* Header styles */
+header {
+    background-color: #007bff;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 5px 0;
+}
+
+header h3 {
+    margin: 5px 0;
+}
+
+/* Objective section styles */
+#objective {
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+/* Technical knowledge section styles */
+#technical-knowledge {
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+/* Achievements section styles */
+#achievements {
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+/* Education section styles */
+#education {
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+/* Technical skills section styles */
+#technical-skills {
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+/* Soft skills section styles */
+#soft-skills {
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+/* Declaration section styles */
+#declaration {
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+/* Table styles */
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #007bff;
+    color: #fff;
+}
+
+/* Links styles */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
